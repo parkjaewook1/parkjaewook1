@@ -1,16 +1,16 @@
-## Hi there 👋
+## 👋 박재욱 | Full-Stack Developer
 
-<!--
-**parkjaewook1/parkjaewook1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+문제를 구조적으로 분석하고  
+사용자 경험과 확장성을 함께 고민하는 개발자입니다.
 
-Here are some ideas to get you started:
+🌐 **Web Portfolio**  
+https://parkjaewook1.github.io/portfolio
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📌 **Featured Project**
+- 🐾 Petmily  
+  Spring Boot · Spring Security · JWT · React
+
+🔗 **Repositories**
+- Portfolio: https://github.com/parkjaewook1/portfolio
+- Backend: https://github.com/parkjaewook1/petmily-backend
+- Frontend: https://github.com/parkjaewook1/petmily-frontend

@@ -12,5 +12,5 @@ https://parkjaewook1.github.io/portfolio
 
 🔗 **Repositories**
 - Portfolio: https://github.com/parkjaewook1/portfolio
-- Backend: https://github.com/parkjaewook1/petmily-backend
-- Frontend: https://github.com/parkjaewook1/petmily-frontend
+- Backend: https://github.com/parkjaewook1/PetMilyProject/tree/master/backend
+- Frontend: https://github.com/parkjaewook1/PetMilyProject/tree/master/frontend

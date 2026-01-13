@@ -7,9 +7,10 @@
 https://parkjaewook1.github.io/portfolio
 
 📌 **Featured Project**
-- 🐾 Petmily  
-  Spring Boot · Spring Security · JWT · React
-
+- 🐾 **Petmily** (반려동물 커뮤니티 & 관리 서비스)  
+  Spring Boot · Spring Security · JWT · React  
+  - Live: https://<https://pet-mily-project.vercel.app>
+  - Repo (Monorepo): https://github.com/parkjaewook1/PetMilyProject
 🔗 **Repositories**
 - Portfolio: https://github.com/parkjaewook1/portfolio
 - Backend: https://github.com/parkjaewook1/PetMilyProject/tree/master/backend

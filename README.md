@@ -1,4 +1,4 @@
-## 👋 박재욱 | Full-Stack Developer
+## 👋 박재욱 | Backend-Focused Developer
 
 문제를 구조적으로 분석하고  
 사용자 경험과 확장성을 함께 고민하는 개발자입니다.
